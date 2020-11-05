@@ -25,6 +25,11 @@ dependencies:
   cached_network_image: ^2.0.0
   provider: ^4.0.5
 
+  flutter_platform_widgets:
+    git:
+      url: git://github.com/stryder-dev/flutter_platform_widgets.git
+      ref: beta
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
